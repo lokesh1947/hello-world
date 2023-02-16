@@ -1,2 +1,2 @@
-a="hello World"
-print(a)
+
+print("hello word")
